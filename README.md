@@ -22,8 +22,10 @@ bbb2b
 3cccc
 ddd4d
 ```
+![extension-demo](https://raw.githubusercontent.com/Tnr1112/Number-sequence/master/images/OrdenOriginal.gif)
 
 But if we select it in another order it respects it.
 
+![extension-demo2](https://raw.githubusercontent.com/Tnr1112/Number-sequence/master/images/OrdenCambiado.gif)
 
 **Enjoy!**
